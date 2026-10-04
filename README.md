@@ -1,6 +1,8 @@
 # ScreenCompare
 
-A fully dynamic React application for comparing movies and TV shows side by side using the TMDB API.
+**A fully dynamic React application for comparing movies and TV shows side by side using the TMDB API.
+
+**Live Application:** [screencompare1.vercel.app](https://screencompare1.vercel.app)
 
 ## Features
 
